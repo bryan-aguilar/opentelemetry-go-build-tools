@@ -5,10 +5,10 @@ go 1.15
 require (
 	github.com/client9/misspell v0.3.4
 	github.com/gogo/protobuf v1.3.2
-	github.com/golangci/golangci-lint v1.45.0
+	github.com/golangci/golangci-lint v1.46.1
 	github.com/itchyny/gojq v0.12.7
 	go.opentelemetry.io/build-tools/dbotconf v0.0.0-00010101000000-000000000000
-	golang.org/x/tools v0.1.10
+	golang.org/x/tools v0.1.11-0.20220316014157-77aa08bb151a
 )
 
 replace (
