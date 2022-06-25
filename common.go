@@ -107,3 +107,7 @@ func FindModules(root string) ([]*modfile.File, error) {
 
 	return results, err
 }
+
+func PrintCommon() {
+	fmt.Println("Printing from common")
+}
